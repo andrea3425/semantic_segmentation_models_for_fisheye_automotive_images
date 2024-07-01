@@ -14,7 +14,6 @@ The study employs transfer learning to adapt the models, originally trained on t
 - [Dataset](#dataset)
 - [Experiments](#experiments)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -58,10 +57,6 @@ The WoodScapes dataset is used for training and evaluation. It includes high-res
 - **Comparison**:
   - DenseASPP: mIoU - 38.54%, F1-score - 0.46
   - GatedSCNN: mIoU - 50.28%, F1-score - 0.62
-
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
